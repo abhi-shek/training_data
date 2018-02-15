@@ -1,0 +1,459 @@
+﻿<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 oldie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 oldie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 oldie"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html xmlns:og="http://ogp.me/ns#">
+<!--<![endif]-->
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title>Home - Purina Pro Club</title>
+    <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1" />
+    <link rel="canonical" href="https://www.purinaproclub.com/" />
+    <meta http-equiv="refresh" content="1200" />
+
+    <link rel="shortcut icon" href="/img/favicon.ico" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/img/apple-touch-icon-144-precomposed.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/img/apple-touch-icon-114-precomposed.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/img/apple-touch-icon-72-precomposed.png" />
+    <link rel="apple-touch-icon-precomposed" href="/img/apple-touch-icon-57-precomposed.png" />
+
+    <meta name="title" content="Home" />
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <meta property="fb:app_id" content="407278992672686" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.purinaproclub.com/" />
+    <meta property="og:image" content="https://www.purinaproclub.com/media/86769/logo-proclub-black.png" />
+    <meta property="og:title" content="Home" />
+    <meta property="og:description" content="" />
+    <meta property="og:site_name" content="Purina Pro Club" />
+    <meta property="article:publisher" content="Purina" />
+    <meta name="twitter:card" content="" />
+    <meta name="twitter:site" content="" />
+    <meta name="google-site-verification" content="mq8BCqqfd1IwksnoVA_D96rsih1yVFnOP8V6_vhl4wQ" />
+    <meta name="msvalidate.01" content="961F09AB625F49E899A70A650C01A3A0" />
+
+
+    <link href="/bundles/proclub.css?v=6RgHRMg_rz8m0zf3ibI_e0wXCZ25BAA8bV9bCxZ3VX01" rel="stylesheet" />
+
+
+    <script src="/bundles/head.js?v=8udCaT3sXz94kgYeJxQChvSi3FBDz3ZK2WMBzTzH5gE1"></script>
+
+    <script type="text/javascript" src="//use.typekit.net/msd5zff.js"></script>
+    <script type="text/javascript">try { Typekit.load(); } catch (e) { }</script>
+    <script type="text/javascript" src="//nexus.ensighten.com/purina/Bootstrap.js"></script>
+    <style id="antiClickjack">
+        body {
+            display: none !important;
+        }
+    </style>
+
+</head>
+<body lang="en">
+    <a name="top"></a>
+    <div class="page">
+        <div id="header">
+            <div id="info-bars">
+                <!-- PURINAPRO-36: Request to remove the grey bar since its info is now part of the welcome pages created.
+                -->
+                <div class="header-bar">
+                    <div class="page-block clearfix">
+                        <div class="pull-right inline-layout">
+                            <form action="/search" method="get" class="site-search">
+                                <span class="search-image"></span>
+                                <label>Enter search</label>
+                                <input type="search" name="q" class="input-heavy">
+                                <button type="submit">GO<span class="visuallyhidden"></span></button>
+                            </form>
+                            <ul class="inline-layout">
+                                <li><a href="/contact-us">Contact</a></li>
+                                <li><a href="/cat">Cat Home</a></li>
+                            </ul>
+                            <div class="share-options inline-layout">
+                                <strong class="share-label">Visit us on:</strong>
+                                <ul>
+                                    <li>
+                                        <a target="_blank" href="https://www.facebook.com/PurinaProPlanforProfessionals">
+                                            <img src="/img/icon-facebook.png" alt="Facebook" />
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a target="_blank" href="https://www.youtube.com/channel/UCVIhmOx2OUrOkmj9xZ7X9Vg">
+                                            <img src="/img/icon-youtube.png" alt="YouTube" />
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="nav-login" style="height: 40px;">
+                                <a href="/login">Member Log In</a>
+                                <img style="width: 0px; height: 0px;" src="https://pointcenter.purinaproclub.com/PurinaNET_CW/pages/ka.aspx?u=00000000-0000-0000-0000-000000000000&s=00000000-0000-0000-0000-000000000000" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="main-nav-container">
+                <div class="page-block clearfix">
+                    <div id="mobile-menu-toggle"><span>Menu</span></div>
+                    <a href="/" class="site-logo">
+                        <img class="logo" src="~/img/proplan_logo.png" alt="" />
+                    </a>
+
+                    <nav class="nav-primary">
+                        <ul class="clearfix">
+                            <li class="">
+                                <a href="/about-pro-club">About <span class="nowrap">Pro Club</span></a>
+                                <div class="sub">
+                                    <ul>
+                                        <li class=""><a href="/about-pro-club/news-announcements">News &amp; Announcements</a></li>
+                                        <li class=""><a href="/about-pro-club/our-pledge">Our Pledge</a></li>
+                                        <li class=""><a href="/about-pro-club/meet-the-team">Meet the Team</a></li>
+                                        <li class=""><a href="/about-pro-club/featured-members">Featured Members</a></li>
+                                        <li class=""><a href="/about-pro-club/getting-started">Getting Started</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li class="">
+                                <a href="/tools">Tools</a>
+                                <div class="sub">
+                                    <ul>
+                                        <li class=""><a href="/tools/spread-the-word">Spread the Word</a></li>
+                                        <li class=""><a href="/tools/puppy-tools">Puppy Tools</a></li>
+                                        <li class=""><a href="/tools/redemption-tools">Redemption Tools</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li class="">
+                                <a href="/events">Events</a>
+                                <div class="sub">
+                                    <ul>
+                                        <li class=""><a href="/events/calendar">Calendar</a></li>
+                                        <li class=""><a href="/events/event-center">Event Center</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li class="">
+                                <a href="/resource-library">Resource Library</a>
+                                <div class="sub">
+                                    <ul>
+                                        <li class=""><a href="/resource-library/bettering-the-breed">Bettering the Breed</a></li>
+                                        <li class=""><a href="/resource-library/video-gallery">Video Gallery</a></li>
+                                        <li class=""><a href="/resource-library/todays-breeder">Today’s Breeder</a></li>
+                                        <li class=""><a href="/resource-library/pro-club-updates">Pro Club Updates</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li class="">
+                                <a href="/why-purina">Why Purina?</a>
+                                <div class="sub">
+                                    <ul>
+                                        <li class=""><a href="/why-purina/nutrition">Nutrition</a></li>
+                                        <li class=""><a href="/why-purina/our-products">Our Products</a></li>
+                                        <li class=""><a href="/why-purina/legacy">Legacy</a></li>
+                                        <li class=""><a href="/why-purina/research-innovation">Research &amp; Innovation</a></li>
+                                        <li class=""><a href="/why-purina/partnerships">Partnerships</a></li>
+                                        <li class=""><a href="/why-purina/testimonials">Testimonials</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li class="">
+                                <a href="/awards-recognition">Awards &amp; Recognition</a>
+                                <div class="sub">
+                                    <ul>
+                                        <li class=""><a href="/awards-recognition/show-top-100" target="_blank">Show Top 100</a></li>
+                                        <li class=""><a href="/awards-recognition/champions-cup">Pro Plan Champions Cup</a></li>
+                                        <li class=""><a href="/awards-recognition/purina-awards-sporting">Purina Awards Sporting</a></li>
+                                        <li class=""><a href="/awards-recognition/circle-of-champions-show">Circle of Champions Show</a></li>
+                                        <li class=""><a href="/awards-recognition/circle-of-champions-sporting">Circle of Champions Sporting</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li class="member"><a href="/maritz/become-a-member">Become a Member</a></li>
+                        </ul>
+                    </nav>
+                    <div class="mobile-sidebar">
+                        <div id="info-bars-mobile">
+                            <div class="header-bar clearfix">
+                                <div class="nav-login pull-left">
+                                    <a href="/login">Member<br />Log In</a>
+                                    <img style="width: 0px; height: 0px;" src="https://pointcenter.purinaproclub.com/PurinaNET_CW/pages/ka.aspx?u=00000000-0000-0000-0000-000000000000&s=00000000-0000-0000-0000-000000000000" />
+                                </div>
+                                <form action="/search" method="get" class="site-search pull-right">
+                                    <label>Search</label>
+                                    <input type="search" name="q" class="input-heavy">
+                                    <button type="submit"><span class="visuallyhidden">Search</span></button>
+                                </form>
+                            </div>
+                        </div>
+                        <a href="/" class="site-logo">
+                            <img src="/media/1058/logo-proclub-smaller.png" alt="" />
+                        </a>
+
+                        <nav class="nav-mobile">
+                            <ul class="clearfix">
+                                <li class="">
+                                    <a href="/about-pro-club">About <span class="nowrap">Pro Club</span></a>
+                                    <div class="sub">
+                                        <ul>
+                                            <li class=""><a href="/about-pro-club/news-announcements">News &amp; Announcements</a></li>
+                                            <li class=""><a href="/about-pro-club/our-pledge">Our Pledge</a></li>
+                                            <li class=""><a href="/about-pro-club/meet-the-team">Meet the Team</a></li>
+                                            <li class=""><a href="/about-pro-club/featured-members">Featured Members</a></li>
+                                            <li class=""><a href="/about-pro-club/getting-started">Getting Started</a></li>
+                                        </ul>
+                                    </div>
+                                </li>
+                                <li class="">
+                                    <a href="/tools">Tools</a>
+                                    <div class="sub">
+                                        <ul>
+                                            <li class=""><a href="/tools/spread-the-word">Spread the Word</a></li>
+                                            <li class=""><a href="/tools/puppy-tools">Puppy Tools</a></li>
+                                            <li class=""><a href="/tools/redemption-tools">Redemption Tools</a></li>
+                                        </ul>
+                                    </div>
+                                </li>
+                                <li class="">
+                                    <a href="/events">Events</a>
+                                    <div class="sub">
+                                        <ul>
+                                            <li class=""><a href="/events/calendar">Calendar</a></li>
+                                            <li class=""><a href="/events/event-center">Event Center</a></li>
+                                        </ul>
+                                    </div>
+                                </li>
+                                <li class="">
+                                    <a href="/resource-library">Resource Library</a>
+                                    <div class="sub">
+                                        <ul>
+                                            <li class=""><a href="/resource-library/bettering-the-breed">Bettering the Breed</a></li>
+                                            <li class=""><a href="/resource-library/video-gallery">Video Gallery</a></li>
+                                            <li class=""><a href="/resource-library/todays-breeder">Today’s Breeder</a></li>
+                                            <li class=""><a href="/resource-library/pro-club-updates">Pro Club Updates</a></li>
+                                        </ul>
+                                    </div>
+                                </li>
+                                <li class="">
+                                    <a href="/why-purina">Why Purina?</a>
+                                    <div class="sub">
+                                        <ul>
+                                            <li class=""><a href="/why-purina/nutrition">Nutrition</a></li>
+                                            <li class=""><a href="/why-purina/our-products">Our Products</a></li>
+                                            <li class=""><a href="/why-purina/legacy">Legacy</a></li>
+                                            <li class=""><a href="/why-purina/research-innovation">Research &amp; Innovation</a></li>
+                                            <li class=""><a href="/why-purina/partnerships">Partnerships</a></li>
+                                            <li class=""><a href="/why-purina/testimonials">Testimonials</a></li>
+                                        </ul>
+                                    </div>
+                                </li>
+                                <li class="">
+                                    <a href="/awards-recognition">Awards &amp; Recognition</a>
+                                    <div class="sub">
+                                        <ul>
+                                            <li class=""><a href="/awards-recognition/show-top-100" target="_blank">Show Top 100</a></li>
+                                            <li class=""><a href="/awards-recognition/champions-cup">Pro Plan Champions Cup</a></li>
+                                            <li class=""><a href="/awards-recognition/purina-awards-sporting">Purina Awards Sporting</a></li>
+                                            <li class=""><a href="/awards-recognition/circle-of-champions-show">Circle of Champions Show</a></li>
+                                            <li class=""><a href="/awards-recognition/circle-of-champions-sporting">Circle of Champions Sporting</a></li>
+                                        </ul>
+                                    </div>
+                                </li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="main-content-container ">
+            <section class="flex-bg banner-primary" style="background-image: url(/media/1593/callout-04-lg.jpg);">
+                <div class="page-block content-row module inverse">
+                    <div class="module-content">
+
+                        <div class="module-body pull-left">
+                            <h3 class="large">Error</h3>
+                            <p>We encountered an error while processing your request.</p>
+                            <p><a href="/">Return to home</a></p>
+                        </div>
+
+                    </div>
+                </div>
+            </section>
+        </div>
+        <div class="footer-container">
+            <div class="page-block">
+                <div class="footer-tools-container clearfix">
+                    <a href="/" class="site-logo">
+                        <img src="/media/1058/logo-proclub-smaller.png" alt="Purina&reg; Pro Club&reg;" />
+                    </a>
+                    <div class="footer-tools inline-layout pull-right">
+                        <ul class="inline-layout">
+                            <li><a href="/contact-us">Contact</a></li>
+                            <li><a href="/sitemap">Site Map</a></li>
+                        </ul>
+                        <form action="/search" method="get" class="site-search">
+                            <span class="search-image"></span>
+                            <label>Enter search</label>
+                            <input type="search" name="q" class="input-heavy">
+                            <button type="submit">GO<span class="visuallyhidden"></span></button>
+                        </form>
+                    </div>
+                </div>
+
+                <nav class="nav-footer table-layout">
+                    <ul class="clearfix">
+                        <li class="">
+                            <a href="/about-pro-club">About <span class="nowrap">Pro Club</span></a>
+                            <div class="sub">
+                                <ul>
+                                    <li class=""><a href="/about-pro-club/news-announcements">News &amp; Announcements</a></li>
+                                    <li class=""><a href="/about-pro-club/our-pledge">Our Pledge</a></li>
+                                    <li class=""><a href="/about-pro-club/meet-the-team">Meet the Team</a></li>
+                                    <li class=""><a href="/about-pro-club/featured-members">Featured Members</a></li>
+                                    <li class=""><a href="/about-pro-club/getting-started">Getting Started</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="">
+                            <a href="/tools">Tools</a>
+                            <div class="sub">
+                                <ul>
+                                    <li class=""><a href="/tools/spread-the-word">Spread the Word</a></li>
+                                    <li class=""><a href="/tools/puppy-tools">Puppy Tools</a></li>
+                                    <li class=""><a href="/tools/redemption-tools">Redemption Tools</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="">
+                            <a href="/events">Events</a>
+                            <div class="sub">
+                                <ul>
+                                    <li class=""><a href="/events/calendar">Calendar</a></li>
+                                    <li class=""><a href="/events/event-center">Event Center</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="">
+                            <a href="/resource-library">Resource Library</a>
+                            <div class="sub">
+                                <ul>
+                                    <li class=""><a href="/resource-library/bettering-the-breed">Bettering the Breed</a></li>
+                                    <li class=""><a href="/resource-library/video-gallery">Video Gallery</a></li>
+                                    <li class=""><a href="/resource-library/todays-breeder">Today’s Breeder</a></li>
+                                    <li class=""><a href="/resource-library/pro-club-updates">Pro Club Updates</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="">
+                            <a href="/why-purina">Why Purina?</a>
+                            <div class="sub">
+                                <ul>
+                                    <li class=""><a href="/why-purina/nutrition">Nutrition</a></li>
+                                    <li class=""><a href="/why-purina/our-products">Our Products</a></li>
+                                    <li class=""><a href="/why-purina/legacy">Legacy</a></li>
+                                    <li class=""><a href="/why-purina/research-innovation">Research &amp; Innovation</a></li>
+                                    <li class=""><a href="/why-purina/partnerships">Partnerships</a></li>
+                                    <li class=""><a href="/why-purina/testimonials">Testimonials</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="">
+                            <a href="/awards-recognition">Awards &amp; Recognition</a>
+                            <div class="sub">
+                                <ul>
+                                    <li class=""><a href="/awards-recognition/show-top-100" target="_blank">Show Top 100</a></li>
+                                    <li class=""><a href="/awards-recognition/champions-cup">Pro Plan Champions Cup</a></li>
+                                    <li class=""><a href="/awards-recognition/purina-awards-sporting">Purina Awards Sporting</a></li>
+                                    <li class=""><a href="/awards-recognition/circle-of-champions-show">Circle of Champions Show</a></li>
+                                    <li class=""><a href="/awards-recognition/circle-of-champions-sporting">Circle of Champions Sporting</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                </nav>
+                <div class="clearfix">
+                    <div class="pull-left">
+                        <div class="disclaimer">
+                            <p>All trademarks are owned by Soci&eacute;t&eacute; des Produits Nestl&eacute; S.A., or used with permission.</p>
+                        </div>
+                        <nav class="nav-subfooter">
+                            <ul class="inline-layout">
+                                <li><a href="/terms">Program Terms</a></li>
+                                <li><a href="https://www.purina.com/privacy-policy" target="_blank">Privacy Policy</a></li>
+                                <li><a href="https://www.purina.com/terms-and-conditions" target="_blank">Site Terms & Conditions</a></li>
+                                <li><a href="https://www.purina.com/" target="_blank">Purina.com</a></li>
+                                <li>
+                                    <!--
+                                      Evidon tag
+                                      cid: 2812
+                                      pid: 2668
+                                    -->
+                                    <a id="_bapw-link" href="#" target="_blank" style="text-decoration:none !important">
+                                        <img id="_bapw-icon" style="border:0 !important; display:inline !important; vertical-align:middle !important; padding-right:5px !important;" />
+                                        <span style="vertical-align:middle !important">AdChoices</span>
+                                    </a>
+                                    <script type="text/javascript">
+                                        (function () {
+                                            var ev = document.createElement('script');
+                                            ev.type = 'text/javascript';
+                                            ev.async = true; ev.setAttribute('data-ev-tag-pid', 2668);
+                                            ev.setAttribute('data-ev-tag-ocid', 2812);
+                                            ev.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'c.betrad.com/pub/tag.js';
+                                            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ev, s);
+                                        })();
+                                    </script>
+                                </li>
+                            </ul>
+                        </nav>
+                    </div>
+                    <div class="share-options inline-layout pull-right">
+                        <strong class="share-label">Visit us on:</strong>
+                        <ul class="inline-layout">
+                            <li>
+                                <a target="_blank" href="https://www.facebook.com/PurinaProPlanforProfessionals">
+                                    <img src="/img/icon-facebook.png" alt="Facebook" />
+                                </a>
+                            </li>
+                            <li>
+                                <a target="_blank" href="https://www.youtube.com/channel/UCVIhmOx2OUrOkmj9xZ7X9Vg">
+                                    <img src="/img/icon-youtube.png" alt="YouTube" />
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="/bundles/foot.js?v=Gr4A8pGtugZ3d1gfv9mEW8HqE54Joqj8Rdtzm85M7GM1"></script>
+
+    <script>window.ProClub.init();</script>
+
+
+    <script>
+        $(function () {
+            window.ProClub.Search.init('.header-bar .site-search');
+            $('input[type=password]').attr('autocomplete', 'off');
+        });
+    </script>
+
+    <!-- addthis.com Share Bar(s) -->
+    <script>var addthis_config = { "data_track_addressbar": false };</script>
+
+    <!-- needs Purina Pro Club's addthis api ID -->
+    <script id="addthis" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-522a0ba701f4fedd&async=1"></script>
+
+    <!-- Purina AlertWire -->
+    <script id="alert-system" type="text/javascript" src="https://api.alertwire.com/Core/AWCore.min.js" data-token="yfP88AkHW2McxwoiyKHQPnVjRNiGi2KR" async></script>
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1169255662';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script></body>
+</html>
